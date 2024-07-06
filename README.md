@@ -7,10 +7,9 @@ This animation provides a 2D visualization of the shipping routes of England, th
 
 **Tech used:** ArcGIS Pro
 
-gggggh
+The data was downloaded and I opened the map. In the Properties of the Ship Positions layer, in the Time tab I selected the Filter Layer Content Based on Attribute Values and also confirmed the parameters of Layer Time that Each feature has a single time field and the Time Field as ShipDate. After confirming the settings, the time slider appears showing the time from 1/1/1770 to 12/31/1770. On the Time tab, I checked the Time Snapping Box in the Snapping group and set the units to Days. I then set the Span to 7 days, which causes the time slider to jump ahead by one week. I then turned on the Colonial Ports and Ship Paths layers in the Contents pane.
 
-
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+gggg
 
 ## Optimizations
 
