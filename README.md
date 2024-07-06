@@ -1,5 +1,5 @@
 # World Shipping in 1770
-This shows a 2D animation through time
+This shows a 2D animation through time showing the shipping route of 
 
 <img src="./ShippingIn1770_gif_640x720p(3).gif" img alt = "Shipping in 1770 GIF"/>
 
