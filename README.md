@@ -25,7 +25,7 @@ The resolution could be slightly shorter, as the empty space risks breaking imme
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+I relish the feeling of being a director creating my own movie. Through this process, I've gained a deeper understanding of how to make animation meaningful and informative for the viewer. It requires a great deal of foresight and planning to ensure that each frame is meticulously crafted, much like directing a flawless movie scene. Without these fundamental skills, an animation can easily become all style and no substance.
 
 ## Repositories
 **Profile:** [T3ch12et](https://github.com/T3ch12et)
