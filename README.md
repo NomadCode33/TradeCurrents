@@ -1,4 +1,4 @@
-# Shipping in 1770
+# World Shipping in 1770
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
 <img src="./ShippingIn1770_gif_640x720p(3).gif" img alt = "Shipping in 1770 GIF"/>
