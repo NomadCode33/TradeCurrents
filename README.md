@@ -1,5 +1,5 @@
 # World Shipping in 1770
-This shows a 2D animation through time showing the shipping route of 
+This animation provides a 2D visualization of the shipping routes of England, the Netherlands, and Spain in the year 1770, dynamically unfolding through time.
 
 <img src="./ShippingIn1770_gif_640x720p(3).gif" img alt = "Shipping in 1770 GIF"/>
 
