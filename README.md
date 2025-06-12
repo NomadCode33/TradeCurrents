@@ -32,15 +32,15 @@ I relish the feeling of being a director creating my own movie. Through this pro
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851)
+**Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851)
 
-**Sumner Boundary Map:** [Sumner Boundary Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Sumner%20Boundary%20Map)
+**Sumner Boundary Map:** [Sumner Boundary Map](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Sumner%20Boundary%20Map)
 
-**New Orleans Flood Risk:** [New Orleans Flood Risk Analysis](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/New-Orleans-Flood-Analysis)
+**New Orleans Flood Risk:** [New Orleans Flood Risk Analysis](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/New-Orleans-Flood-Analysis)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** https://github.com/NomadCode33
 
-**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
+**Cartography Repository:** [ESRI MOOC Cartography](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** https://github.com/NomadCode33/GIS-Data-Science-Portfolio
